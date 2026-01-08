@@ -1,0 +1,319 @@
+{
+  "texts": [
+    {
+      "id": 1,
+      "title": "論仁、論孝、論君子",
+      "author": "孔子",
+      "period": "春秋時期",
+      "category": "語錄體",
+      "mainTheme": "儒家倫理思想",
+      "keyPoints": {
+        "論仁": {
+          "theme": "從個人修養與待人處事闡述仁的內容及表現",
+          "coreIdea": "克己復禮、非禮勿視聽言動",
+          "attitude": "安於實行仁德，不因生存而違背仁德"
+        },
+        "論孝": {
+          "theme": "闡述孝的本質與克盡孝道的方法",
+          "coreIdea": "無違、心存敬重、委婉規勸、及時盡孝",
+          "attitude": "對父母須心存敬重與感恩"
+        },
+        "論君子": {
+          "theme": "指出君子特質、應有態度及與小人的區別",
+          "coreIdea": "君子光明磊落、講信用、結交德行優勝者、以道義為根本",
+          "contrast": "君子心胸光明，小人常感憂慮恐懼"
+        }
+      },
+      "rhetoricalDevices": ["排比", "對比", "對偶", "疊字"],
+      "writingTechniques": ["語錄體", "正反對比"],
+      "importantPhrases": [
+        "克己復禮",
+        "非禮勿視，非禮勿聽，非禮勿言，非禮勿動",
+        "無違",
+        "君子坦蕩蕩，小人長戚戚"
+      ],
+      "examinationFocus": ["詞解", "句譯", "主旨理解", "修辭手法"]
+    },
+    {
+      "id": 2,
+      "title": "魚我所欲也",
+      "author": "孟子",
+      "period": "戰國時期",
+      "category": "議論散文",
+      "mainTheme": "捨生取義、本心善端",
+      "keyPoints": {
+        "centralArgument": "道義價值高於生存",
+        "logicStructure": "以魚和熊掌比喻生存與道義，論證捨生取義",
+        "extension": "指出本心是人人皆有，但賢者不會失去"
+      },
+      "rhetoricalDevices": ["比喻", "排比", "設問"],
+      "argumentationMethods": ["比喻論證", "對比論證"],
+      "writingTechniques": ["正反立論", "層層遞進"],
+      "importantPhrases": [
+        "魚我所欲也，熊掌亦我所欲也",
+        "二者不可得兼，舍魚而取熊掌者也",
+        "捨生而取義者也",
+        "明辨義利"
+      ],
+      "examinationFocus": ["論證手法", "修辭手法", "內容理解", "比較閱讀"]
+    },
+    {
+      "id": 3,
+      "title": "逍遙遊（節錄）",
+      "author": "莊子",
+      "period": "戰國時期",
+      "category": "議論散文",
+      "mainTheme": "突破世俗束縛、達到精神自由",
+      "keyPoints": {
+        "mainIdea": "不被世俗觀念束縛，轉換角度思考",
+        "philosophy": "無用之用的道理",
+        "conclusion": "突破思想枷鎖才能達到逍遙境界"
+      },
+      "rhetoricalDevices": ["對比", "誇張", "反問"],
+      "argumentationMethods": ["對比論證", "舉例論證", "比喻論證"],
+      "writingTechniques": ["對話體", "寓言性"],
+      "importantPhrases": [
+        "無用之用",
+        "逍遙遊",
+        "大用",
+        "世俗觀念"
+      ],
+      "examinationFocus": ["哲學思想", "論證手法", "修辭手法", "內容理解"]
+    },
+    {
+      "id": 4,
+      "title": "勸學（節錄）",
+      "author": "荀子",
+      "period": "戰國時期",
+      "category": "議論散文",
+      "mainTheme": "學習的重要性與態度",
+      "keyPoints": {
+        "mainArgument": "學習不可停止",
+        "emphasis": "後天學習能改變人的本質",
+        "condition": "專心致志、不斷積累才能突破限制"
+      },
+      "rhetoricalDevices": ["對比", "比喻", "排比", "對偶", "借代"],
+      "argumentationMethods": ["比喻論證", "對比論證"],
+      "writingTechniques": ["層層遞進", "正反對比"],
+      "importantPhrases": [
+        "學不可以已",
+        "積土成山，風雨興焉",
+        "積水成淵，蛟龍生焉",
+        "不積跬步，無以至千里"
+      ],
+      "examinationFocus": ["論證手法", "修辭手法", "比喻運用", "內容理解"]
+    },
+    {
+      "id": 5,
+      "title": "廉頗藺相如列傳（節錄）",
+      "author": "司馬遷",
+      "period": "漢代",
+      "category": "人物傳記",
+      "mainTheme": "忠心愛國、機智勇敢、寬容大度",
+      "keyPoints": {
+        "storyStructure": "完璧歸趙 → 澠池之會 → 負荊請罪",
+        "characterTraits": {
+          "藺相如": "機智勇敢、忠心愛國、忍辱負重、顧全大局",
+          "廉頗": "勇於改過、知錯能改"
+        }
+      },
+      "characterizationMethods": ["語言描寫", "動作描寫", "神態描寫", "側面描寫"],
+      "rhetoricalDevices": ["對比"],
+      "writingTechniques": ["故事敘述", "人物刻畫"],
+      "importantPhrases": [
+        "完璧歸趙",
+        "澠池之會",
+        "負荊請罪",
+        "廉頗聞之，肉袒負荊，因賓客至藺相如門謝罪"
+      ],
+      "examinationFocus": ["事件發展", "人物性格", "刻畫手法", "主旨理解"]
+    },
+    {
+      "id": 6,
+      "title": "出師表",
+      "author": "諸葛亮",
+      "period": "三國時期",
+      "category": "議論抒情",
+      "mainTheme": "忠誠、北伐、治國方略",
+      "keyPoints": {
+        "structure": "分析形勢 → 提出建議 → 表達忠心",
+        "mainArguments": "虛心納諫、處事公正、賞罰分明、親賢遠佞",
+        "emotionalExpression": "對先帝與後主的忠誠之心"
+      },
+      "persuasionMethods": ["動之以情", "曉之以理"],
+      "writingTechniques": ["層層遞進", "情理結合"],
+      "importantPhrases": [
+        "受任於敗軍之際，奉命於危難之間",
+        "親賢臣，遠小人",
+        "賞罰分明"
+      ],
+      "examinationFocus": ["遊說手法", "建議內容", "感情表達", "主旨理解"]
+    },
+    {
+      "id": 7,
+      "title": "師說",
+      "author": "韓愈",
+      "period": "唐代",
+      "category": "議論散文",
+      "mainTheme": "從師學習的重要性、批評恥於從師的陋習",
+      "keyPoints": {
+        "centralThesis": "古代學習者必有老師",
+        "teacherRole": "傳道、授業、解惑",
+        "selectionCriteria": "選擇老師的準則",
+        "criticism": "批評當時世人恥於從師的陋習"
+      },
+      "argumentationMethods": ["對比論證", "舉例論證", "引用論證"],
+      "rhetoricalDevices": ["反問", "對偶", "頂真"],
+      "writingTechniques": ["正反對比", "層層遞進"],
+      "importantPhrases": [
+        "師者，所以傳道、授業、解惑也",
+        "聞道有先後，術業有專攻",
+        "恥學於師"
+      ],
+      "examinationFocus": ["論證手法", "修辭手法", "主旨理解", "內容分析"]
+    },
+    {
+      "id": 8,
+      "title": "始得西山宴遊記",
+      "author": "柳宗元",
+      "period": "唐代",
+      "category": "抒情遊記",
+      "mainTheme": "精神解放、超越世俗、孤高不凡",
+      "keyPoints": {
+        "narrativeProcess": "發現西山 → 登上西山 → 飲酒 → 進入醉鄉",
+        "sceneryDescription": "遠望、俯視、仰望所見",
+        "emotionalExpression": "形體心神得到解放，與天地萬物融合"
+      },
+      "writingTechniques": ["借景抒情", "敘事結合抒情"],
+      "rhetoricalDevices": ["擬人", "排比"],
+      "importantPhrases": [
+        "始得西山宴遊之樂",
+        "形體心神，皆得休息",
+        "與天地萬物相融合"
+      ],
+      "examinationFocus": ["敘事過程", "景物描寫", "感情抒發", "主旨理解"]
+    },
+    {
+      "id": 9,
+      "title": "岳陽樓記",
+      "author": "范仲淹",
+      "period": "北宋",
+      "category": "抒情遊記",
+      "mainTheme": "家國情懷、不為外物所動、先憂後樂",
+      "keyPoints": {
+        "structure": "重修岳陽樓 → 陰雨天景色 → 晴天景色 → 個人志向",
+        "contrast": "遷客騷人在不同天氣下的不同感受",
+        "philosophy": "不因外物變化或個人際遇而悲喜"
+      },
+      "writingTechniques": ["借景抒情", "對比手法"],
+      "rhetoricalDevices": ["對偶", "擬人", "疊字", "借代"],
+      "importantPhrases": [
+        "先天下之憂而憂，後天下之樂而樂",
+        "不以物喜，不以己悲",
+        "登斯樓也，則有心曠神怡"
+      ],
+      "examinationFocus": ["景物描寫", "借景抒情", "對比手法", "個人志向"]
+    },
+    {
+      "id": 10,
+      "title": "六國論",
+      "author": "蘇洵",
+      "period": "北宋",
+      "category": "議論散文",
+      "mainTheme": "借古諷今、警示統治者不可屈辱求和",
+      "keyPoints": {
+        "mainArgument": "六國滅亡因賄賂秦國",
+        "implication": "借古諷今，警示北宋不應屈辱求和",
+        "warning": "否則重蹈六國滅亡的覆轍"
+      },
+      "argumentationMethods": ["舉例論證", "比喻論證", "引用論證"],
+      "rhetoricalDevices": ["比喻", "對比", "設問", "對偶", "誇張"],
+      "writingTechniques": ["借古諷今", "層層遞進"],
+      "importantPhrases": [
+        "六國破滅，非兵不利，戰不善，弊在賂秦也",
+        "借古諷今"
+      ],
+      "examinationFocus": ["論證手法", "修辭手法", "歷史背景", "主旨理解"]
+    },
+    {
+      "id": 11,
+      "title": "唐詩三首",
+      "author": "王維、李白、杜甫",
+      "period": "唐代",
+      "category": "詩歌",
+      "poems": [
+        {
+          "title": "山居秋暝",
+          "author": "王維",
+          "theme": "借描寫秋天雨後山中傍晚的美景，凸顯鄉居人的淳樸生活，寄寓對寧靜隱居生活的嚮往",
+          "emotion": "高尚情操、寄情山水"
+        },
+        {
+          "title": "月下獨酌（其一）",
+          "author": "李白",
+          "theme": "借記述在良辰美景下獨自飲酒，唯有與影子與月亮作伴的情境",
+          "emotion": "孤單落寞、鬱悶不快、缺少知己、尋求解脫"
+        },
+        {
+          "title": "登樓",
+          "author": "杜甫",
+          "theme": "借登樓見到繁花似錦的景色，引發因國家殘破而感到的無盡傷痛",
+          "emotion": "憂國憂民、無奈、愛國情懷"
+        }
+      ],
+      "examinationFocus": ["詩歌體例", "感情抒發", "景物描寫", "主旨理解"]
+    },
+    {
+      "id": 12,
+      "title": "詞三首",
+      "author": "蘇軾、李清照、辛棄疾",
+      "period": "宋代",
+      "category": "詞",
+      "poems": [
+        {
+          "title": "念奴嬌．赤壁懷古",
+          "author": "蘇軾",
+          "theme": "借描述赤壁雄奇壯觀的景色，引發對周瑜的懷念",
+          "emotion": "年華老去、未能建功立業的無奈、排遣心情"
+        },
+        {
+          "title": "聲聲慢．秋情",
+          "author": "李清照",
+          "theme": "借描述秋天殘破憔悴的景物，渲染淒清氛圍",
+          "emotion": "懷念故人故鄉、國破家亡、年華老去的複雜哀思"
+        },
+        {
+          "title": "青玉案．元夕",
+          "author": "辛棄疾",
+          "theme": "借描寫元宵盛況，諷刺南宋統治者耽於享樂、苟且偷安",
+          "emotion": "不與世俗同流合污的高尚情操"
+        }
+      ],
+      "examinationFocus": ["詞的體例", "感情抒發", "景物描寫", "主旨理解"]
+    }
+  ],
+  "examinationFormat": {
+    "section": "卷一閱讀甲部",
+    "percentage": "30%",
+    "questionTypes": [
+      {
+        "type": "詞解、句譯題",
+        "description": "隨機抽取單字、詞語或句子，要求解釋或語譯"
+      },
+      {
+        "type": "主題內容、寫作手法題",
+        "description": "多項選擇題、填表、長問答，考核內容理解與寫作手法掌握"
+      },
+      {
+        "type": "比較閱讀題",
+        "description": "考核不同範文之間的融會貫通能力"
+      }
+    ]
+  },
+  "studyTips": {
+    "memorization": "背誦原文是基礎，特別是重點詞解與特殊語譯",
+    "understanding": "掌握內容架構，熟知考核重點，理解而非死記",
+    "comparison": "將主題相近的文章結合溫習，進行比較分析",
+    "practicalApplication": "學習將原文引用到答題中，增加說服力"
+  }
+}

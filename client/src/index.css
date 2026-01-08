@@ -43,39 +43,40 @@
 }
 
 :root {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-600);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
-  --radius: 0.65rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.235 0.015 65);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.235 0.015 65);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.235 0.015 65);
-  --secondary: oklch(0.98 0.001 286.375);
-  --secondary-foreground: oklch(0.4 0.015 65);
-  --muted: oklch(0.967 0.001 286.375);
-  --muted-foreground: oklch(0.552 0.016 285.938);
-  --accent: oklch(0.967 0.001 286.375);
-  --accent-foreground: oklch(0.141 0.005 285.823);
-  --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(0.92 0.004 286.32);
-  --input: oklch(0.92 0.004 286.32);
-  --ring: oklch(0.623 0.214 259.815);
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.235 0.015 65);
-  --sidebar-accent: oklch(0.967 0.001 286.375);
-  --sidebar-accent-foreground: oklch(0.141 0.005 285.823);
-  --sidebar-border: oklch(0.92 0.004 286.32);
-  --sidebar-ring: oklch(0.623 0.214 259.815);
+  /* 古典文人風格色彩系統 */
+  --primary: oklch(0.4 0.08 30);  /* 古銅紅 */
+  --primary-foreground: oklch(0.97 0.01 80);  /* 米白色 */
+  --sidebar-primary: oklch(0.35 0.08 30);  /* 深古銅紅 */
+  --sidebar-primary-foreground: oklch(0.97 0.01 80);
+  --chart-1: oklch(0.4 0.08 30);
+  --chart-2: oklch(0.35 0.08 30);
+  --chart-3: oklch(0.45 0.08 30);
+  --chart-4: oklch(0.3 0.08 30);
+  --chart-5: oklch(0.25 0.08 30);
+  --radius: 0.5rem;  /* 稍微減少圓角 */
+  --background: oklch(0.97 0.01 80);  /* 米白色背景 */
+  --foreground: oklch(0.1 0.02 30);  /* 墨黑色文字 */
+  --card: oklch(0.98 0.005 80);  /* 略淡米白 */
+  --card-foreground: oklch(0.1 0.02 30);
+  --popover: oklch(0.98 0.005 80);
+  --popover-foreground: oklch(0.1 0.02 30);
+  --secondary: oklch(0.93 0.01 80);  /* 淡米色 */
+  --secondary-foreground: oklch(0.2 0.02 30);
+  --muted: oklch(0.9 0.01 80);
+  --muted-foreground: oklch(0.4 0.02 30);
+  --accent: oklch(0.4 0.08 30);  /* 古銅紅強調 */
+  --accent-foreground: oklch(0.97 0.01 80);
+  --destructive: oklch(0.6 0.15 10);  /* 深紅 */
+  --destructive-foreground: oklch(0.97 0.01 80);
+  --border: oklch(0.88 0.01 80);  /* 淡邊框 */
+  --input: oklch(0.95 0.005 80);
+  --ring: oklch(0.4 0.08 30);
+  --sidebar: oklch(0.97 0.01 80);
+  --sidebar-foreground: oklch(0.1 0.02 30);
+  --sidebar-accent: oklch(0.4 0.08 30);
+  --sidebar-accent-foreground: oklch(0.97 0.01 80);
+  --sidebar-border: oklch(0.88 0.01 80);
+  --sidebar-ring: oklch(0.4 0.08 30);
 }
 
 .dark {
@@ -117,8 +118,50 @@
   * {
     @apply border-border outline-ring/50;
   }
+  
+  /* 古典文人風格排版系統 */
+  html {
+    font-family: 'Noto Serif TC', serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
   body {
     @apply bg-background text-foreground;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.02em;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+    margin-bottom: 1.5rem;
+    color: oklch(0.1 0.02 30);
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    margin-bottom: 1.25rem;
+    color: oklch(0.15 0.02 30);
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: oklch(0.2 0.02 30);
+  }
+  
+  p {
+    line-height: 1.8;
+    margin-bottom: 1rem;
   }
   button:not(:disabled),
   [role="button"]:not([aria-disabled="true"]),
