@@ -15,5 +15,5 @@ export default defineConfig({
     outDir: "../dist",
     emptyOutDir: true,
   },
-  base: "/hkdse-chinese-classics-revision/",
+  base: "/",
 });
