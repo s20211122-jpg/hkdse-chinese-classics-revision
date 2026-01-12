@@ -7,6 +7,8 @@ import { Progress } from '@/components/ui/progress';
 import { CheckCircle2, XCircle, ArrowLeft } from 'lucide-react';
 import { useLocation } from 'wouter';
 
+
+
 interface Question {
   id: number;
   textId: number;
@@ -107,7 +109,7 @@ export default function Quiz() {
               <Button
                 variant="ghost"
                 size="sm"
-                onClick={() => setLocation('/')}
+                    onClick={() => setLocation('/')}
                 className="mr-2"
               >
                 <ArrowLeft className="w-4 h-4" />
